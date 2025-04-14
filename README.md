@@ -51,21 +51,24 @@ A Java Swing-based desktop application for tracking and managing inventory. Supp
 1. **Launch the App**  
    Open in NetBeans and run `Main.java`.
 
-1.1 Register If want to add another account. 
-
-3. **Login**  
+2. **Login**  
    - Enter username/password.
    - Choose between Admin or Member.
+   - user1 and password1 for admin
+   - user2 and password2 for member
+   - can create different member account with unique username and password in the register
+     
 
-4. **Admin Capabilities**  
+3. **Admin Capabilities**  
    - Manage products
    - View user logs
    - Export reports
 
-5. **Member Capabilities**  
+4. **Member Capabilities**  
    - View available products
-   - Predict Sales Using Linear Regressions
+   - Receive expiration alerts
    - Generate product reports
+
 
 ---
 

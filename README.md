@@ -41,7 +41,8 @@ A Java Swing-based desktop application for tracking and managing inventory. Supp
 | JSON             | Data storage                   |
 | Apache Ant       | Build automation (NetBeans)    |
 | JFreeChart       | Data visualization             !
-! Common Math      ! Linear Regression              !
+| Common Math      | Linear Regression              |
+
 
 ---
 

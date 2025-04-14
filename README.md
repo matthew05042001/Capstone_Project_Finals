@@ -72,5 +72,4 @@ A Java Swing-based desktop application for tracking and managing inventory. Supp
 
 ---
 
-## 🧩 Project Structure
 

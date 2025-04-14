@@ -5,6 +5,10 @@ Group Members:
 3. Vinze Jerald Lulab - Designer
 4. Christian Louise Villacampa - Documentator
 
+
+https://drive.google.com/file/d/1iIrIcSK_-ND7wkN3tVuj19ssd8caRZ3s/view?usp=sharing
+
+
 Project Title: Canned Goods Inventory
 Group Number: 2
 Section:1 A
